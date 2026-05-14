@@ -1,4 +1,4 @@
-# 
+# ultimate liquidation sniper bot Plugin | grid-trading + API-integration is the best liquidation sniper bot, featuring grid-trading and API-integration. Smart, fast, and optimized
 
 
 
